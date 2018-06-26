@@ -1,0 +1,43 @@
+  
+
+.rounded {
+    border-radius: 5px;
+}
+
+header {
+    height: 55px;
+    width:100%;
+   /* border-radius: 5px;*/
+    background-color:orange;    
+}
+
+.header-div {
+    max-width: 100%;
+    height:inherit;
+    float:left;
+}
+
+.header-div  .mainlogo {
+    max-width: 100%;
+    max-height:100%; 
+    margin-left: 15px;
+}
+
+
+body {
+    /* Full height */
+    height: auto;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-color:rgb(83, 40, 12);
+} 
+
+.body-div-main {
+    width:100%;
+    height:auto;
+    background-color: peru;
+}
